@@ -59,3 +59,13 @@
   left: 9%;
   bottom: 47%
 }
+
+.skills {
+  background-color: grey;
+  position: absolute;
+  height: 46%;
+  width: 12%;
+  margin: 1%;
+  left: 9%;
+  bottom: 0%
+}

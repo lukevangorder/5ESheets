@@ -4,11 +4,13 @@ import StatBar from './StatBar.js'
 import Inspiration from './Inspiration.js'
 import Proficiency from './Proficiency.js'
 import SavingThrows from './SavingThrows.js'
+import Skills from './Skills.js'
 
 export {
     NameBar,
     StatBar,
     Inspiration,
     Proficiency,
-    SavingThrows
+    SavingThrows,
+    Skills
 }
