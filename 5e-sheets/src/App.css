@@ -1,3 +1,10 @@
+.topBar {
+  background-color: blue;
+  position: absolute;
+  height: 15%;
+  width: 100%;
+}
+
 .CSheet {
   background-color: red;
   position: absolute;

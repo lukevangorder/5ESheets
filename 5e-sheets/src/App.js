@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import TopBar from './TopBar';
 
 function App() {
   return (
-    <div class='CSheet'>Character Sheet Body</div>
+    <TopBar />
+    // <div class='CSheet'></div>
   );
 }
 
