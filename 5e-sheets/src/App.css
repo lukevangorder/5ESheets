@@ -10,5 +10,14 @@
   position: absolute;
   height: 85%;
   width: 100%;
-  top: 15%
+  top: 15%;
+  
+}
+
+.nameBar {
+  background-color: grey;
+  position: absolute;
+  height: 15%;
+  width: 40%;
+  margin: 1%
 }
