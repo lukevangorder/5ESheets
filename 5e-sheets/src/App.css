@@ -21,3 +21,12 @@
   width: 40%;
   margin: 1%
 }
+
+.statBar {
+  background-color: brown;
+  position: absolute;
+  height: 78%;
+  width: 10%;
+  margin: 1%;
+  bottom: 0%
+}
