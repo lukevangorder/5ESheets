@@ -5,6 +5,8 @@ import Inspiration from './Inspiration.js'
 import Proficiency from './Proficiency.js'
 import SavingThrows from './SavingThrows.js'
 import Skills from './Skills.js'
+import HitPoints from './HitPoints.js'
+
 
 export {
     NameBar,
@@ -12,5 +14,6 @@ export {
     Inspiration,
     Proficiency,
     SavingThrows,
-    Skills
+    Skills,
+    HitPoints
 }

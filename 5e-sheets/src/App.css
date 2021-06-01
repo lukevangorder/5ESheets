@@ -18,7 +18,7 @@
   background-color: grey;
   position: absolute;
   height: 15%;
-  width: 40%;
+  width: 43%;
   margin: 1%
 }
 
@@ -68,4 +68,14 @@
   margin: 1%;
   left: 9%;
   bottom: 0%
+}
+
+.hitpoints {
+  background-color: grey;
+  position: absolute;
+  height: 32%;
+  width: 21%;
+  margin: 1%;
+  left: 22%;
+  bottom: 47%
 }
