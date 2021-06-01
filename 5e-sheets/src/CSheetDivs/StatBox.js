@@ -11,16 +11,20 @@ export class StatBox extends Component {
 
     handleIncrease = () => {
         const newStat = this.state.value + 1
-        this.setState({
-            value: newStat
-        })
+        if (newStat < 21) {
+            this.setState({
+                value: newStat
+            })
+        }
     }
 
     handleDecrease = () => {
         const newStat = this.state.value - 1
-        this.setState({
-            value: newStat
-        })
+        if (newStat >= 0) {
+            this.setState({
+                value: newStat
+            })
+        }
     }
 
     render() {
