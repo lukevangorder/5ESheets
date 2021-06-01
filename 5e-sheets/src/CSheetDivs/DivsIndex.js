@@ -10,6 +10,7 @@ import Attacks from './Attacks.js'
 import Inventory from './Inventory.js'
 import FeaturesAndTraits from './FeaturesAndTraits.js'
 import PsAndLs from './PsAndLs.js'
+import Spellbook from './Spellbook.js'
 
 export {
     NameBar,
@@ -22,5 +23,6 @@ export {
     Attacks,
     Inventory,
     FeaturesAndTraits,
-    PsAndLs
+    PsAndLs,
+    Spellbook
 }

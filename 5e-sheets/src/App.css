@@ -77,7 +77,7 @@
   width: 21%;
   margin: 1%;
   left: 22%;
-  bottom: 40%
+  bottom: 0%
 }
 
 .attacks {
@@ -87,7 +87,7 @@
   width: 21%;
   margin: 1%;
   left: 22%;
-  bottom: 0%
+  bottom: 40%
 }
 
 .inventory {
@@ -121,9 +121,9 @@
 .spellbook {
   background-color: grey;
   position: absolute;
-  height: 39%;
+  height: 55%;
   width: 21%;
   margin: 1%;
-  right: 22%;
+  right: 0%;
   bottom: 0%
 }
