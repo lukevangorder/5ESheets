@@ -155,6 +155,10 @@
   left: 1%;
 }
 
+.cursorHover {
+  cursor: pointer
+}
+
 .statBoxStat {
   font-size: 40px;
 }
