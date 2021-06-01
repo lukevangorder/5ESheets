@@ -22,15 +22,6 @@
   margin: 1%
 }
 
-.statBar {
-  background-color: grey;
-  position: absolute;
-  height: 79%;
-  width: 8%;
-  margin: 1%;
-  bottom: 0%
-}
-
 .inspiration {
   background-color: grey;
   position: absolute;
@@ -134,5 +125,26 @@
 }
   
 .grow:hover { 
-  transform: scale(1.01); 
+  transform: scale(1.03); 
+}
+
+.statBar {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  position: absolute;
+  height: 79%;
+  width: 8%;
+  margin: 1%;
+  bottom: 0%;
+  align-items: center;
+}
+
+.statBox {
+  display: flex;
+  justify-content: flex-start;
+  background-color: white;
+  width: 80%;
+  height: 15%;
+  margin: 5%
 }
