@@ -22,15 +22,6 @@
   margin: 1%
 }
 
-.inspiration {
-  background-color: grey;
-  position: absolute;
-  height: 5%;
-  width: 12%;
-  margin: 1%;
-  left: 9%;
-  bottom: 74%
-}
 
 .proficiency {
   background-color: grey;
@@ -151,8 +142,6 @@
 
 .statBoxLabel {
   position: absolute;
-  bottom:1%;
-  left: 1%;
 }
 
 .cursorHover {
@@ -161,4 +150,27 @@
 
 .statBoxStat {
   font-size: 40px;
+}
+
+.inspiration {
+  background-color: grey;
+  position: absolute;
+  height: 5%;
+  width: 12%;
+  margin: 1%;
+  left: 9%;
+  bottom: 74%
+}
+
+.inspirationToggle {
+  background-color: white;
+  float: right;
+  width: 20%;
+  height: 60%;
+  margin: 4%;
+  text-align: center;
+}
+
+.iTSymbol {
+  top: 1%;
 }

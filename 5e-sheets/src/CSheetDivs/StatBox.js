@@ -29,13 +29,13 @@ export class StatBox extends Component {
 
     render() {
         return (
-            <div class='statBox grow'>
-                <div class='statBoxStat'>{this.state.value}</div>
+            <div class='statBox'>
                 <div class='statBoxLabel'>
                     {this.props.stat}
                     <a class='cursorHover' onClick={this.handleDecrease}>  -  </a>
                     <a class='cursorHover' onClick={this.handleIncrease}>  +  </a>
                 </div>
+                <div class='statBoxStat'>{this.state.value}</div>
             </div>
         )
     }
