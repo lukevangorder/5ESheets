@@ -98,3 +98,12 @@
   margin: 1%;
   right: 0%;
 }
+
+.featuresandtraits {
+  background-color: grey;
+  position: absolute;
+  height: 39%;
+  width: 21%;
+  margin: 1%;
+  right: 22%;
+}

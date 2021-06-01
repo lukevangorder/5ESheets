@@ -8,7 +8,7 @@ import Skills from './Skills.js'
 import HitPoints from './HitPoints.js'
 import Attacks from './Attacks.js'
 import Inventory from './Inventory.js'
-
+import FeaturesAndTraits from './FeaturesAndTraits.js'
 
 export {
     NameBar,
@@ -19,5 +19,6 @@ export {
     Skills,
     HitPoints,
     Attacks,
-    Inventory
+    Inventory,
+    FeaturesAndTraits
 }
