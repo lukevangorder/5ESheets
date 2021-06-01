@@ -6,6 +6,8 @@ import Proficiency from './Proficiency.js'
 import SavingThrows from './SavingThrows.js'
 import Skills from './Skills.js'
 import HitPoints from './HitPoints.js'
+import Attacks from './Attacks.js'
+import Inventory from './Inventory.js'
 
 
 export {
@@ -15,5 +17,7 @@ export {
     Proficiency,
     SavingThrows,
     Skills,
-    HitPoints
+    HitPoints,
+    Attacks,
+    Inventory
 }

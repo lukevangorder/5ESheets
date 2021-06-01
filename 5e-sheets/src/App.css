@@ -6,7 +6,7 @@
 }
 
 .CSheet {
-  background-color: red;
+  background-color: lightgrey;
   position: absolute;
   height: 85%;
   width: 100%;
@@ -73,9 +73,28 @@
 .hitpoints {
   background-color: grey;
   position: absolute;
-  height: 32%;
+  height: 39%;
   width: 21%;
   margin: 1%;
   left: 22%;
-  bottom: 47%
+  bottom: 40%
+}
+
+.attacks {
+  background-color: grey;
+  position: absolute;
+  height: 39%;
+  width: 21%;
+  margin: 1%;
+  left: 22%;
+  bottom: 0%
+}
+
+.inventory {
+  background-color: grey;
+  position: absolute;
+  height: 39%;
+  width: 21%;
+  margin: 1%;
+  right: 0%;
 }
