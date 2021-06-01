@@ -102,8 +102,28 @@
 .featuresandtraits {
   background-color: grey;
   position: absolute;
+  height: 55%;
+  width: 21%;
+  margin: 1%;
+  right: 22%;
+}
+
+.psandls {
+  background-color: grey;
+  position: absolute;
   height: 39%;
   width: 21%;
   margin: 1%;
   right: 22%;
+  bottom: 0%
+}
+
+.spellbook {
+  background-color: grey;
+  position: absolute;
+  height: 39%;
+  width: 21%;
+  margin: 1%;
+  right: 22%;
+  bottom: 0%
 }

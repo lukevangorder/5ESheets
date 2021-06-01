@@ -9,6 +9,7 @@ import HitPoints from './HitPoints.js'
 import Attacks from './Attacks.js'
 import Inventory from './Inventory.js'
 import FeaturesAndTraits from './FeaturesAndTraits.js'
+import PsAndLs from './PsAndLs.js'
 
 export {
     NameBar,
@@ -20,5 +21,6 @@ export {
     HitPoints,
     Attacks,
     Inventory,
-    FeaturesAndTraits
+    FeaturesAndTraits,
+    PsAndLs
 }
