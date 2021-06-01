@@ -148,3 +148,13 @@
   height: 15%;
   margin: 5%
 }
+
+.statBoxLabel {
+  position: absolute;
+  bottom:1%;
+  left: 1%;
+}
+
+.statBoxStat {
+  font-size: 40px;
+}
